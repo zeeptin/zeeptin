@@ -25,12 +25,11 @@
 #
 
 
-<!---
-# stats
-https://custom-icon-badges.demolab.com/?logo=zeeptin_steam
-steam group
-discord total members
 
+# Stats
+<img src='https://staging.shields.io/badge/dynamic/xml?url=https://steamcommunity.com/groups/GaminglightRP/memberslistxml/?xml=1&label=Steam%20Group&query=//memberList/groupDetails/memberCount&color=ad0000&suffix=%20Members&logo=steam'>
+
+<!---
 
 
 zeeptin/zeeptin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
