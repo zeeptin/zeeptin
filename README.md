@@ -40,7 +40,7 @@
 
 
 ## Discord
-<img align='left' style='padding-right:10px' src='https://img.shields.io/discord/417484140640993290?label=Gaminglight%20Discord&logo=discord&logoColor=white'>
+<img align='left' style='padding-right:10px' src='https://img.shields.io/discord/417484140640993290?color=%23738ADB&label=Gaminglight%20Discord&logo=discord&logoColor=white'>
 <br />
 
 ## GitHub
