@@ -30,11 +30,13 @@
 ## Steam
 <img align='left' style='padding-right:10px' src='https://staging.shields.io/badge/dynamic/xml?url=https://steamcommunity.com/groups/GaminglightRP/memberslistxml/?xml=1&label=Steam%20Group&query=//memberList/groupDetails/memberCount&color=ad0000&suffix=%20Members&logo=steam'>
 <img align='left' style='padding-right:10px' src='https://staging.shields.io/badge/Workshop%20Subs-566%2C255-ad0000?logo=steam'>
+<br />
 
 ## Garry's Mod Servers
 <img align='left' style='padding-right:10px' src='https://img.shields.io/uptimerobot/ratio/7/m790583038-5552c0717c60373c332380c6?label=SCPRP%20Uptime'>
 <img align='left' style='padding-right:10px' src='https://img.shields.io/uptimerobot/ratio/7/m790583036-11a54badca2895f6e99fc03c?label=ImperialRP%20Uptime'>
 <img align='left' style='padding-right:10px' src='https://img.shields.io/uptimerobot/ratio/7/m790583039-517bd1c235c09e1f02ec6e83?label=PoliceRP%20Uptime'>
+<br />
 
 
 ## GitHub
