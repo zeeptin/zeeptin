@@ -6,6 +6,7 @@
 -   Discord: Zeeptin#2031 (usually don't accept friend request)
 
 # Languages
+<div style='background-color: gray;'>
 <img align='left' alt='docker' width='50px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 <img align='left' alt='docker' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
 <img align='left' alt='docker' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
@@ -17,7 +18,7 @@
 <img align='left' alt='docker' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align='left' alt='docker' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align='left' alt='docker' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
-
+</div>
 <br />
 
 #
