@@ -27,7 +27,8 @@
 
 
 # Stats
-<img src='https://staging.shields.io/badge/dynamic/xml?url=https://steamcommunity.com/groups/GaminglightRP/memberslistxml/?xml=1&label=Steam%20Group&query=//memberList/groupDetails/memberCount&color=ad0000&suffix=%20Members&logo=steam'>
+<img style='padding-right:10px' src='https://staging.shields.io/badge/dynamic/xml?url=https://steamcommunity.com/groups/GaminglightRP/memberslistxml/?xml=1&label=Steam%20Group&query=//memberList/groupDetails/memberCount&color=ad0000&suffix=%20Members&logo=steam'>
+<img style='padding-right:10px' src='https://staging.shields.io/badge/Workshop%20Subs-566%2C255-ad0000?logo=steam'>
 
 <!---
 
