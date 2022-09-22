@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 - 👋 Hi, I’m @zeeptin
 - 👀 I currently sit as CEO of Gaminglight, LLC
 - 🌱 I’m currently expanding my knownledge in Node.js and Javascript in order to automate a lot of processes we currently manually do weekly.
