@@ -39,6 +39,10 @@
 <br />
 
 
+## Discord
+<img align='left' style='padding-right:10px' src='https://img.shields.io/discord/417484140640993290?label=Gaminglight%20Discord&logo=discord&logoColor=white'>
+<br />
+
 ## GitHub
 
 <!---
