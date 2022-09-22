@@ -25,14 +25,14 @@
 #
 
 
-
+<!---
 # stats
 https://custom-icon-badges.demolab.com/?logo=zeeptin_steam
 steam group
 discord total members
 
 
-<!---
+
 zeeptin/zeeptin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
