@@ -1,4 +1,4 @@
-![header]("https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Zeeptin&height=150&fontSize=60&desc=CEO%2FSoftware%Enthusiast&descAlignY=75&descAlign=60")
+![header]("https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Zeeptin&height=150&fontSize=60&desc=CEO%2FSoftware%20Enthusiast&descAlignY=75&descAlign=60")
 - 👋 Hi, I’m @zeeptin
 - 👀 I currently sit as CEO of Gaminglight, LLC
 - 🌱 I’m currently expanding my knownledge in Node.js and Javascript in order to automate a lot of processes we currently manually do weekly.
