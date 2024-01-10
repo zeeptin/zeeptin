@@ -4,7 +4,7 @@
 - 🌱 I’m currently expanding my knownledge in Node.js and Javascript in order to automate a lot of processes we currently manually do weekly.
 - 📫 How to reach me ...
 -   Email: zeeptin@gaminglight.com
--   Discord: Zeeptin#2031 (usually don't accept friend request)
+-   Discord: Zeeptin (usually don't accept friend request)
 
 # Languages
 <div style='background-color: gray;'>
