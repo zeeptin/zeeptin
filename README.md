@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=ad0000&text=Zeeptin&height=150&fontSize=60&desc=CEO%2FSoftware%20Enthusiast&descAlignY=75&descAlign=60)
 
 # Languages
 <div style='background-color: gray;'>
